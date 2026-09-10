@@ -1,3 +1,6 @@
 COMPILAR
 
 g++ ComputacaoGrafica.cpp -Ifreeglut/include -o programa.exe -Lfreeglut/lib -lfreeglut -lopengl32 -lglu32
+
+RESTAURAR O ANTIGO DLL x64
+Copy-Item .\freeglut.dll.bak .\freeglut.dll -Force
