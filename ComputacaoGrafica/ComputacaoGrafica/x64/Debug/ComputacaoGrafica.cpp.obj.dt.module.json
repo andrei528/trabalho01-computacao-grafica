@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\ComputacaoGrafica.obj",
+            "outputs": [
+                "x64\\Debug\\ComputacaoGrafica.cpp.obj.dt.module.json",
+                "x64\\Debug\\ComputacaoGrafica.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
